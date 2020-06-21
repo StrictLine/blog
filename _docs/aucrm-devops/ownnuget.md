@@ -1,5 +1,5 @@
 ---
-title: Fast deployment by Powershell Script
+title: Creating own Nuget packages
 category: AuCRM DevOps
 order: 1
 ---
