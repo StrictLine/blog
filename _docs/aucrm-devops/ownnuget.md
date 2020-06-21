@@ -4,4 +4,4 @@ category: AuCRM DevOps
 order: 1
 ---
 
-TODO: instructions for customizing XML definition of deployment
+TODO: instructions creating own Nuget packages
