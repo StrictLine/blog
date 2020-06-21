@@ -1,28 +1,27 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: StrictLine.blog
+url: "https://blog.strictline.biz"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-31764854-2
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+description: My thoughts and discoveries to development of AuCRM (Aurea CRM / formerly update.CRM)
+author: 
+  name: Miklos Moricz, BSc.
+  email: miklos.moricz@strictline.biz
 social:
-  name: Edition Template
+  name: GitHub
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - https://github.com/StrictLine
 
 # -----
-# Build
+# Build 
 
-timezone: Etc/UTC
+timezone: Europe/Vienna
 
 permalink: pretty
 
@@ -69,7 +68,7 @@ defaults:
       type: "posts"
     values:
       _comments:
-        type: Marks the impact of this release
+        type: Marks the type of blog article
 
 # -----------
 # CloudCannon
